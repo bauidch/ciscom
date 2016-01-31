@@ -1,8 +1,9 @@
 #Show commands
 
 ``` cli
+show history
 show running-config
-show flash:
+show flash
 show ip interface brief
 show versions
 show ssh 
