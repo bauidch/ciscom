@@ -5,8 +5,8 @@ The order is of the chapter from the CCNA Routing and Switching
 - [Password](#password)
 - [SSH](#ssh)
 - [Message](#message)
-- [Interface](#int)
-- [Default Gateway](#dg)
+- [Interface](#interface)
+- [Default Gateway](#default-gateway)
 
 ##Default Gateway
 ``` cli
