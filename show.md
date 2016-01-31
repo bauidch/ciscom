@@ -1,7 +1,11 @@
 #Show commands
 
 ``` cli
-Show ssh 
+show running-config
+show flash:
+show ip interface brief
+show versions
+show ssh 
 show port-security interface F0/1
 show vlan brief
 show mac address-table
