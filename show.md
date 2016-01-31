@@ -12,4 +12,5 @@ show mac address-table
 show port-security
 Show ip route
 show access-lists
+show ip nat translation
 ```
